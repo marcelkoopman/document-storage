@@ -1,4 +1,4 @@
-package com.github.document.storage.core;
+package com.github.document.storage.core.impl;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;

@@ -41,6 +41,7 @@
 						<Import-Package>
 							*
 						</Import-Package>
+						<Bundle-Activator>com.github.document.storage.core.impl.DocumentStorageCoreActivator</Bundle-Activator>
 					</instructions>
 				</configuration>
 			</plugin>
